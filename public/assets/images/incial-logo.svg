@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 255.1088 282.83843">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+        fill: #808080;
+        font-family: UncutSans-Bd, Uncut Sans;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.005em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M105.986,103.96792h.00011a0,0,0,0,1,0,0V280.33656a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V209.4539a105.486,105.486,0,0,1,105.486-105.486Z"/>
+  <path class="cls-1" d="M287.16215,119.06879H416.77132a0,0,0,0,1,0,0V398.90536a0,0,0,0,1,0,0h-.00013a129.609,129.609,0,0,1-129.609-129.609V119.06879A0,0,0,0,1,287.16215,119.06879Z" transform="translate(541.77095 399.40536) rotate(-180)"/>
+  <circle class="cls-1" cx="58.81401" cy="47.67208" r="47.17208"/>
+  <text class="cls-2" transform="translate(130.55705 275.278)">in<tspan class="cls-3" x="22.68262" y="0">ci</tspan><tspan x="45.12793" y="0">al.</tspan></text>
+</svg>
