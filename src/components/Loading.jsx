@@ -2,7 +2,7 @@ import React from 'react'
 import { MorphingText } from "./MorphingText"
 
 
-const texts = ["Wlecome","स्वागत", "أهلاً", "സ്വാഗതം"]
+const texts = ["Welcome","स्वागत", "أهلاً", "സ്വാഗതം"]
 
 const Loading = () => {
   return (
