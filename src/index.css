@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'BodoniModa';
+  src: url('/public/fonts/NeueMontreal-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BodoniModa';
+  src: url('/public/fonts/NeueMontreal-Bold.otf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
 * {
   margin: 0;
   padding: 0;

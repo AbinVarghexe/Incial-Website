@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <header className="w-full py-8 sm:px-10 px-5 flex justify-between items-center">
       <nav className="flex w-full screen-max-width">
-        <img src={IncialLogo} alt="Apple" width={14} height={18} />
+        <img src={IncialLogo} alt="Apple" width={20} height={24} />
 
         <div className="flex flex-1 justify-center max-sm:hidden">
           {navLists.map((nav) => (

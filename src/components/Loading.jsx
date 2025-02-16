@@ -1,18 +1,15 @@
 import React from 'react'
-import { MorphingText } from "./MorphingText"
+import { HyperText } from "./HyperText"
 
-
-const texts = ["Welcome","स्वागत", "أهلاً", "സ്വാഗതം"]
+const texts = ["Welcome", "स्वागत", "أهلاً", "സ്വാഗതം"]
 
 const Loading = () => {
   return (
     <div className="h-screen flex justify-center items-center">
-        <MorphingText texts={texts} />
+        <HyperText texts={texts}>Welcome</HyperText>
     </div>
   )
 }
+
 export default Loading
-
-
-
 
