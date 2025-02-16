@@ -7,17 +7,19 @@ import HowItWorks from './components/HowItWorks';
 import Footer from './components/Footer';
 
 import * as Sentry from '@sentry/react';
+import Loading from './components/Loading';
 
 const App = () => {
   return (
-    <main className="bg-black">
-      <Navbar />
+    <main className="bg-black ">
+      {/* <Navbar />
       <Hero />
-      <Highlights />
-      <Model />
-      <Features />
-      <HowItWorks />
-      <Footer />
+      <Highlights /> */}
+      {/* <Model /> */}
+      {/* <Features />
+      <HowItWorks /> */}
+      <Loading />
+      {/* <Footer /> */}
     </main>
   )
 }

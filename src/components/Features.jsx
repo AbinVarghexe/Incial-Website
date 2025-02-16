@@ -35,7 +35,7 @@ const Features = () => {
     <section className="h-full common-padding bg-zinc relative overflow-hidden">
       <div className="screen-max-wdith">
         <div className="mb-12 w-full">
-          <h1 id="features_title" className="section-heading">Explore the full story.</h1>
+          <h1 id="features_title" className="section-heading">Services.</h1>
         </div>
         
         <div className="flex flex-col justify-center items-center overflow-hidden">
